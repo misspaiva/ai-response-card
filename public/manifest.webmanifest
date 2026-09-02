@@ -1,0 +1,17 @@
+{
+  "name": "Cartão de Resposta de IA",
+  "short_name": "Resposta IA",
+  "description": "Aplicação de cartão de resposta com IA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
